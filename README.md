@@ -172,5 +172,5 @@ This project is released under the [MIT License](LICENSE).
 
 **Masoud Rafiee**\
 Email: mrafiee22\@ubishops.ca\
-GitHub: [@](https://github.com/MASOUD-RAFIEE)masoud-rafiee
+GitHub: [@](https://github.com/MASOUD-RAFIEE) masoud-rafiee
 
