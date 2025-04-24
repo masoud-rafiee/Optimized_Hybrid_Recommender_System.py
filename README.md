@@ -93,7 +93,7 @@ Top 5 recommendations for user 1 using PSO:
    pip install -r requirements.txt
    ```
 
-> **Note:** Ensure you have the MovieLens 100K CSV files in the `data/` directory.
+> > **Important:** The full dataset is too large to host here. Download the MovieLens 20M data from [Kaggle](https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset/data) and place the extracted CSV files (`ratings.csv`, `movies.csv`, etc.) into the `data/` folder before running the project.
 
 ---
 
@@ -172,5 +172,5 @@ This project is released under the [MIT License](LICENSE).
 
 **Masoud Rafiee**\
 Email: mrafiee22\@ubishops.ca\
-GitHub: [@](https://github.com/your-username)masoud-rafiee
+GitHub: [@](https://github.com/MASOUD-RAFIEE)masoud-rafiee
 
