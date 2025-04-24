@@ -70,7 +70,6 @@ Top 5 recommendations for user 1 using PSO:
 │   ├── PSO.py                  # Particle Swarm Optimization
 │   └── recommend.py            # Recommendation script
 ├── README.md                   # Project overview (this file)
-└── HW4-Project.pdf             # Original assignment specification
 ```
 
 ---
