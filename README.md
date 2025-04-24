@@ -79,7 +79,7 @@ Top 5 recommendations for user 1 using PSO:
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/<your-username>/hybrid-movie-recommender.git
+   git clone https://github.com/masoud-rafiee/hybrid-movie-recommender.git
    cd hybrid-movie-recommender
    ```
 2. **Create virtual environment**
