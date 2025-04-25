@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f528b12b-5f59-483c-acfb-075e13a433ec)
+![image](https://github.com/user-attachments/assets/89f462d8-b432-4430-b3fa-aa1bdc1b90d8)
 
 # 🚀 Hybrid Movie Recommender System
 
