@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/89f462d8-b432-4430-b3fa-aa1bdc1b90d8)
-
 # 🚀 Hybrid Movie Recommender System
 
 **MLP + Genetic Algorithm (GA) & Particle Swarm Optimization (PSO) on MovieLens 100K**
